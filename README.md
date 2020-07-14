@@ -9,3 +9,4 @@ INTEGRANTES DE GRUPO:
 Aplicación de chat, el  cual permite a un usuario interactuar con uno o varios usuarios mediante mensajes de texto y fotos.
 
 Proyecto desarrollado en Android Studio.
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/conversation.png) 
