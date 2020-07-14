@@ -1,5 +1,5 @@
 # ProyectoChat_Android
- # Proyecto correspondiente al primer de la materia de tópicos especiales
+ # Proyecto correspondiente al primer Bimestre de la materia de tópicos especiales
 INTEGRANTES DE GRUPO:
 - Andres Alvear
 - Wendy Soto
