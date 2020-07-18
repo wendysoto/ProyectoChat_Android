@@ -4,26 +4,32 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".RegisterActivity">
 
     <LinearLayout
-
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:orientation="vertical"
         android:padding="16dp"
-
-        tools:ignore="MissingConstraints"
+        tools:ignore="MissingConstraints,UselessLeaf"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="106dp">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Iniciar Sesión"
+            android:text="Crear Nueva Cuenta"
             android:textSize="20sp"
             android:textStyle="bold" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:hint="Usuario"
+            app:met_floatingLabel="normal" />
 
         <com.rengwuxian.materialedittext.MaterialEditText
             android:id="@+id/email"
@@ -44,22 +50,14 @@
             app:met_floatingLabel="normal" />
 
         <Button
-            android:id="@+id/btn_login"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:background="@color/colorPrimaryDark"
-            android:text="Iniciar Sesión"
-            android:textColor="#ffff" />
-
-        <Button
-            android:id="@+id/btnRegister"
+            android:id="@+id/btn_register"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:background="@color/colorPrimaryDark"
             android:text="Registrarse"
             android:textColor="#ffff" />
+
 
     </LinearLayout>
 
