@@ -1,37 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:orientation="vertical"
     tools:context=".InitActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="26dp"
-        tools:layout_editor_absoluteY="-1dp">
+        android:layout_height="wrap_content">
 
-        <TextView
-            android:id="@+id/nameUser"
-            android:layout_width="wrap_content"
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="50dp"
-            android:layout_marginLeft="50dp"
-            android:text="Usuario"
-            android:textColor="#ffff"
+            android:background="@color/colorPrimaryDark"
+            android:theme="@style/Base.ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:popupTheme="@style/MenuStyle">
 
-            android:textStyle="bold" />
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profile_image"
+                android:layout_width="40dp"
+                android:layout_height="40dp" />
 
-        <de.hdodenhof.circleimageview.CircleImageView
-            android:id="@+id/profile_image"
-            android:layout_width="40dp"
-            android:layout_height="40dp" />
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="50dp"
+                android:layout_marginLeft="50dp"
+                android:text="Usuario"
+                android:textColor="#ffff"
+                android:textStyle="bold" />
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layou"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDark"
+            app:tabTextColor="#fff"
+            app:tabIndicatorColor="#fff"
+            app:tabSelectedTextColor="#fff"
+            />
 
 
     </com.google.android.material.appbar.AppBarLayout>
 
+    <androidx.viewpager.widget.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/view_pager"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
 
-</RelativeLayout>
+
+
+</LinearLayout>

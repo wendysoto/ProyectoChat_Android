@@ -47,6 +47,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Toolbar toolbar = findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+        getSupportActionBar().setTitle("Iniciar Sesión");
+
         auth = FirebaseAuth.getInstance();
 
         email = findViewById(R.id.email);
