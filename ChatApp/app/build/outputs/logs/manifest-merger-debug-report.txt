@@ -1,0 +1,481 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d74d3b1fc1ddb38efacae4fe92b1dd50\AndroidManifest.xml:17:1-24:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1c16a4f0bb6120452bb288bfb6b5b01f\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\47ccbbaf356ff9bc76dc454cb244976f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a22cf61bb3d348ad33e4fbc526fefcee\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\fb469ac4de3a88c4c1848bc65afb829d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-core:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c9a5c41a2c32c50a21236e5b1cc40e54\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\fb6feeb7f513cb3ac40e96758ba164b1\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a54986c7c8a50a58c7a6c3a597911341\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e22c0b872e5d2f4dc4e480aa9c1d6a01\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dc2e05938c4036b14b101a6e898a1faf\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a515e1f01bfbe0c5e5dfb39133fd36ba\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\838e2c0700747600b2207179194c0055\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0656c612a85ed7b3a6c427d81b6a6e91\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\48092bc208d5db23a89442e5b41fd207\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-analytics:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\b8f7cfa2cb0ddb7eaabc2a37028d5baf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\9493066719a75615849ce5d497f95051\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c1059634de4e1c6fdd76f5e593d70ee7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dd60ee3d4745dee0385a30617a2bf3dd\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3f8ca765df08d42206a66e80f2c0b4cb\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dd123e964e88406c36bbaf422252d2dd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c9508ab6df86a949a0c2329a23fe0b68\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1a5e85573c5b3a75538b01db5a9a3b02\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\70940a67dff839480f4c941c60c5870c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\527db2db785d5a8bb22a871e202778b9\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\9b0f69ac15672d59eb2b49d0af48df6a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a5e7259ea87781e40a6561a2d16d2398\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\ac66c968e03d540807d69dac64933799\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\554bbd0eeb02ebee0c352a03fbc55621\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\caace45c4f03797fc5314a716df4a70c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\22eac3806842f9fd9ba09f4d78e5f086\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a9e09da91fe2261c837255fb7adac0e9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1f4ea1be664d6d75ffa95ae78af4df43\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3c1a679956c5c91ff60456fa9f1dba41\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\79b005220647c4d3f36b3276d6d6ebbe\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\74ee494e9d32390ddff5918fd18fe6c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dbe7cc46f95862105058b47677c35e9c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\91ac44ae84ee630fffe58fe3749216f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0d6263665c0afe645adbd5b5495253d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\64cd1e4bddfad0102d3e29becdfc7399\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3c5a99e9584271f2fcd9ece0bddb1944\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e165bdac53f9871e8f233dae1c717457\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\6cd85c29a66950e9d59699f23a282c24\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e3358c279f5f8d60450a2e84e22e5f60\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\daafaf333fecf063c7c7bdd2e3c22855\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\2c297c6477353928c7dd121c4a0dff02\AndroidManifest.xml:15:1-23:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\4874d74e090fb5b40a528b276a8ceedd\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\56227ee31290237bf3afab43a5cf2275\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\79d34998dd727252a4fdd45048b3c2a3\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\99aef37a58ed93e49e1103e959a5b107\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\73b3df403ee4e0c5d31dc7277f8a4d79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\b5d7c2a416da63a57866aa47342726a4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d45c5e870c346be02eae3922a80eae50\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\8bfd70dbf0dac2baa3db9987af7af7c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d5ba22021c6ad312ce5449f0e401af6d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\289233c6d523efc8cb1a614a4b1bea45\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\9c837fb7365959fe2d3826076fdad327\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\25cb1002286f8863af1e8c3bed8a7dbf\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d74d3b1fc1ddb38efacae4fe92b1dd50\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d74d3b1fc1ddb38efacae4fe92b1dd50\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a22cf61bb3d348ad33e4fbc526fefcee\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a22cf61bb3d348ad33e4fbc526fefcee\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-core:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c9a5c41a2c32c50a21236e5b1cc40e54\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c9a5c41a2c32c50a21236e5b1cc40e54\AndroidManifest.xml:7:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a54986c7c8a50a58c7a6c3a597911341\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a54986c7c8a50a58c7a6c3a597911341\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e22c0b872e5d2f4dc4e480aa9c1d6a01\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e22c0b872e5d2f4dc4e480aa9c1d6a01\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\838e2c0700747600b2207179194c0055\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\838e2c0700747600b2207179194c0055\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\48092bc208d5db23a89442e5b41fd207\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\48092bc208d5db23a89442e5b41fd207\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\b8f7cfa2cb0ddb7eaabc2a37028d5baf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\b8f7cfa2cb0ddb7eaabc2a37028d5baf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c1059634de4e1c6fdd76f5e593d70ee7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c1059634de4e1c6fdd76f5e593d70ee7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dd60ee3d4745dee0385a30617a2bf3dd\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dd60ee3d4745dee0385a30617a2bf3dd\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dd123e964e88406c36bbaf422252d2dd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dd123e964e88406c36bbaf422252d2dd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c9508ab6df86a949a0c2329a23fe0b68\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c9508ab6df86a949a0c2329a23fe0b68\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1a5e85573c5b3a75538b01db5a9a3b02\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1a5e85573c5b3a75538b01db5a9a3b02\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\70940a67dff839480f4c941c60c5870c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\70940a67dff839480f4c941c60c5870c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\527db2db785d5a8bb22a871e202778b9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\527db2db785d5a8bb22a871e202778b9\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\6cd85c29a66950e9d59699f23a282c24\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\6cd85c29a66950e9d59699f23a282c24\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\4874d74e090fb5b40a528b276a8ceedd\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\4874d74e090fb5b40a528b276a8ceedd\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\79d34998dd727252a4fdd45048b3c2a3\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\79d34998dd727252a4fdd45048b3c2a3\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\6cd85c29a66950e9d59699f23a282c24\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.chatapp.MessageActivity
+ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:14:9-53
+	android:name
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:14:19-50
+activity#com.example.chatapp.InitActivity
+ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:15:9-17:58
+	android:parentActivityName
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:17:13-55
+	android:name
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:16:13-41
+activity#com.example.chatapp.RegisterActivity
+ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:18:9-20:58
+	android:parentActivityName
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:19:13-45
+activity#com.example.chatapp.Splash
+ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:22:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.chatapp.MainActivity
+ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:30:9-32:20
+	android:name
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml:30:19-47
+uses-sdk
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d74d3b1fc1ddb38efacae4fe92b1dd50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d74d3b1fc1ddb38efacae4fe92b1dd50\AndroidManifest.xml:20:5-44
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1c16a4f0bb6120452bb288bfb6b5b01f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1c16a4f0bb6120452bb288bfb6b5b01f\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\47ccbbaf356ff9bc76dc454cb244976f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\47ccbbaf356ff9bc76dc454cb244976f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a22cf61bb3d348ad33e4fbc526fefcee\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a22cf61bb3d348ad33e4fbc526fefcee\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\fb469ac4de3a88c4c1848bc65afb829d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\fb469ac4de3a88c4c1848bc65afb829d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-core:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c9a5c41a2c32c50a21236e5b1cc40e54\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c9a5c41a2c32c50a21236e5b1cc40e54\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\fb6feeb7f513cb3ac40e96758ba164b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\fb6feeb7f513cb3ac40e96758ba164b1\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a54986c7c8a50a58c7a6c3a597911341\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a54986c7c8a50a58c7a6c3a597911341\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e22c0b872e5d2f4dc4e480aa9c1d6a01\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e22c0b872e5d2f4dc4e480aa9c1d6a01\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dc2e05938c4036b14b101a6e898a1faf\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dc2e05938c4036b14b101a6e898a1faf\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a515e1f01bfbe0c5e5dfb39133fd36ba\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a515e1f01bfbe0c5e5dfb39133fd36ba\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\838e2c0700747600b2207179194c0055\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\838e2c0700747600b2207179194c0055\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0656c612a85ed7b3a6c427d81b6a6e91\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0656c612a85ed7b3a6c427d81b6a6e91\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\48092bc208d5db23a89442e5b41fd207\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\48092bc208d5db23a89442e5b41fd207\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\b8f7cfa2cb0ddb7eaabc2a37028d5baf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\b8f7cfa2cb0ddb7eaabc2a37028d5baf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\9493066719a75615849ce5d497f95051\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\9493066719a75615849ce5d497f95051\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c1059634de4e1c6fdd76f5e593d70ee7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c1059634de4e1c6fdd76f5e593d70ee7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dd60ee3d4745dee0385a30617a2bf3dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dd60ee3d4745dee0385a30617a2bf3dd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3f8ca765df08d42206a66e80f2c0b4cb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3f8ca765df08d42206a66e80f2c0b4cb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dd123e964e88406c36bbaf422252d2dd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dd123e964e88406c36bbaf422252d2dd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c9508ab6df86a949a0c2329a23fe0b68\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\c9508ab6df86a949a0c2329a23fe0b68\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1a5e85573c5b3a75538b01db5a9a3b02\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1a5e85573c5b3a75538b01db5a9a3b02\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\70940a67dff839480f4c941c60c5870c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\70940a67dff839480f4c941c60c5870c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\527db2db785d5a8bb22a871e202778b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\527db2db785d5a8bb22a871e202778b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\9b0f69ac15672d59eb2b49d0af48df6a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\9b0f69ac15672d59eb2b49d0af48df6a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a5e7259ea87781e40a6561a2d16d2398\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a5e7259ea87781e40a6561a2d16d2398\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\ac66c968e03d540807d69dac64933799\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\ac66c968e03d540807d69dac64933799\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\554bbd0eeb02ebee0c352a03fbc55621\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\554bbd0eeb02ebee0c352a03fbc55621\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\caace45c4f03797fc5314a716df4a70c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\caace45c4f03797fc5314a716df4a70c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\22eac3806842f9fd9ba09f4d78e5f086\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\22eac3806842f9fd9ba09f4d78e5f086\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a9e09da91fe2261c837255fb7adac0e9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\a9e09da91fe2261c837255fb7adac0e9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1f4ea1be664d6d75ffa95ae78af4df43\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\1f4ea1be664d6d75ffa95ae78af4df43\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3c1a679956c5c91ff60456fa9f1dba41\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3c1a679956c5c91ff60456fa9f1dba41\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\79b005220647c4d3f36b3276d6d6ebbe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\79b005220647c4d3f36b3276d6d6ebbe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\74ee494e9d32390ddff5918fd18fe6c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\74ee494e9d32390ddff5918fd18fe6c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dbe7cc46f95862105058b47677c35e9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\dbe7cc46f95862105058b47677c35e9c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\91ac44ae84ee630fffe58fe3749216f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\91ac44ae84ee630fffe58fe3749216f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0d6263665c0afe645adbd5b5495253d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0d6263665c0afe645adbd5b5495253d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\64cd1e4bddfad0102d3e29becdfc7399\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\64cd1e4bddfad0102d3e29becdfc7399\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3c5a99e9584271f2fcd9ece0bddb1944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3c5a99e9584271f2fcd9ece0bddb1944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e165bdac53f9871e8f233dae1c717457\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e165bdac53f9871e8f233dae1c717457\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\6cd85c29a66950e9d59699f23a282c24\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\6cd85c29a66950e9d59699f23a282c24\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e3358c279f5f8d60450a2e84e22e5f60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e3358c279f5f8d60450a2e84e22e5f60\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\daafaf333fecf063c7c7bdd2e3c22855\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\daafaf333fecf063c7c7bdd2e3c22855\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\2c297c6477353928c7dd121c4a0dff02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\2c297c6477353928c7dd121c4a0dff02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\4874d74e090fb5b40a528b276a8ceedd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\4874d74e090fb5b40a528b276a8ceedd\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\56227ee31290237bf3afab43a5cf2275\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\56227ee31290237bf3afab43a5cf2275\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\79d34998dd727252a4fdd45048b3c2a3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\79d34998dd727252a4fdd45048b3c2a3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\99aef37a58ed93e49e1103e959a5b107\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\99aef37a58ed93e49e1103e959a5b107\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\73b3df403ee4e0c5d31dc7277f8a4d79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\73b3df403ee4e0c5d31dc7277f8a4d79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\b5d7c2a416da63a57866aa47342726a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\b5d7c2a416da63a57866aa47342726a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d45c5e870c346be02eae3922a80eae50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d45c5e870c346be02eae3922a80eae50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\8bfd70dbf0dac2baa3db9987af7af7c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\8bfd70dbf0dac2baa3db9987af7af7c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d5ba22021c6ad312ce5449f0e401af6d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\d5ba22021c6ad312ce5449f0e401af6d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\289233c6d523efc8cb1a614a4b1bea45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\289233c6d523efc8cb1a614a4b1bea45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\9c837fb7365959fe2d3826076fdad327\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\9c837fb7365959fe2d3826076fdad327\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\25cb1002286f8863af1e8c3bed8a7dbf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\25cb1002286f8863af1e8c3bed8a7dbf\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alba\Documents\PROYECTO-ANDROID\ChatApp\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\0ece8c682d563b98959fb21f8bada3de\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3f8ca765df08d42206a66e80f2c0b4cb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3f8ca765df08d42206a66e80f2c0b4cb\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3f8ca765df08d42206a66e80f2c0b4cb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3f8ca765df08d42206a66e80f2c0b4cb\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:26:22-64
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\258ebfb26485293309df367809b63000\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\48092bc208d5db23a89442e5b41fd207\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\48092bc208d5db23a89442e5b41fd207\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\48092bc208d5db23a89442e5b41fd207\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\48092bc208d5db23a89442e5b41fd207\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3f8ca765df08d42206a66e80f2c0b4cb\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\3f8ca765df08d42206a66e80f2c0b4cb\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\259b76f3d3de5b266a10791f5a8c9b39\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.2] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\086784a185be7e5f05c468764ae88b50\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\54769671f9ca34039145c631e336e213\AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\122236020e9a811c844460bff07b6398\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.4] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\e94ab8f368665fbf53701af6e017a832\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\527db2db785d5a8bb22a871e202778b9\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\527db2db785d5a8bb22a871e202778b9\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Alba\.gradle\caches\transforms-2\files-2.1\527db2db785d5a8bb22a871e202778b9\AndroidManifest.xml:24:13-58
