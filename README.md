@@ -11,4 +11,4 @@ Aplicación de chat, el  cual permite a un usuario interactuar con uno o varios 
 Proyecto desarrollado en Android Studio.
 
 
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/conversation.png) 
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app.png) 
