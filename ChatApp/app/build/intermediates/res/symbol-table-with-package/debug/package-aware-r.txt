@@ -1622,6 +1622,7 @@ id icon_only
 id ifRoom
 id image
 id imageView
+id imageView2
 id img_off
 id img_on
 id info

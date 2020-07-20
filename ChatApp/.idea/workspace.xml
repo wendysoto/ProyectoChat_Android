@@ -6,11 +6,14 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b809f19b-fb8a-44df-8cd9-0d9cf02a6371" name="Default Changelist" comment="" />
+    <list default="true" id="b761b8d8-c36e-4a4d-bcca-89b7f8ad4822" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="4200005923ba63b7" />
   <component name="ExternalProjectsData">
@@ -25,7 +28,7 @@
       </state>
     </system>
   </component>
-  <component name="ProjectId" id="1et4usWT5Ip9bOq5FiTmZUwp1ue" />
+  <component name="ProjectId" id="1euxkVZ87knvDZtYOr5WE591QR7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,18 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="4200005923ba63b7" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-19T06:42:05.295Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDK Location" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="android.template.-1723045211">
-      <recent name="com.example.chatapp" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -111,34 +103,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b809f19b-fb8a-44df-8cd9-0d9cf02a6371" name="Default Changelist" comment="" />
-      <created>1595127782717</created>
+      <changelist id="b761b8d8-c36e-4a4d-bcca-89b7f8ad4822" name="Default Changelist" comment="" />
+      <created>1595185433633</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1595127782717</updated>
+      <updated>1595185433633</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="73" y="113" key="#PSD" timestamp="1595132711294">
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1595216007207">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="73" y="113" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1595132711294" />
-    <state x="263" y="117" key="AndroidCreateResourceFileDialog" timestamp="1595137577148">
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1595216007207" />
+    <state x="378" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1595208769174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="117" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1595137577148" />
-    <state x="673" y="159" key="FileChooserDialogImpl" timestamp="1595137703311">
+    <state x="378" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595208769174" />
+    <state x="454" y="63" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595207297327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="673" y="159" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595137703311" />
-    <state x="263" y="105" key="IDE.errors.dialog" timestamp="1595141264343">
+    <state x="454" y="63" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1595207297327" />
+    <state x="413" y="117" key="extract.method.dialog" timestamp="1595216722580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="263" y="105" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1595141264343" />
-    <state x="378" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1595131330147">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="378" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595131330147" />
+    <state x="413" y="117" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1595216722580" />
   </component>
 </project>

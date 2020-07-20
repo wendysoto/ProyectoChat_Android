@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Jul 18 23:45:55 COT 2020
+#Sun Jul 19 14:30:44 COT 2020
 1.base=C\:\\Users\\Alba\\Documents\\PROYECTO-ANDROID\\ChatApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
