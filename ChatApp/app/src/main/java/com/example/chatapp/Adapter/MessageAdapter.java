@@ -1,7 +1,6 @@
 package com.example.chatapp.Adapter;
 
 import android.content.Context;
-import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -16,6 +15,7 @@ import com.example.chatapp.Model.Chat;
 import com.example.chatapp.R;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+
 import java.util.List;
 
 public class MessageAdapter extends RecyclerView.Adapter<MessageAdapter.ViewHolder> {
@@ -51,12 +51,29 @@ public class MessageAdapter extends RecyclerView.Adapter<MessageAdapter.ViewHold
     public void onBindViewHolder(@NonNull MessageAdapter.ViewHolder holder, int position) {
 
         Chat chat = mChat.get(position);
-        holder.show_message.setText(chat.getMessage());
+        //holder.show_message.setText(chat.getMessage());
         if (imageurl.equals("default")){
             holder.profile_image.setImageResource(R.mipmap.ic_launcher);
         } else {
             Glide.with(mContext).load(imageurl).into(holder.profile_image);
         }
+
+        //
+        String type = mChat.get(position).getType();
+        if(type.equals("text")){
+            holder.show_message.setVisibility(View.VISIBLE);
+            holder.image_message.setVisibility(View.GONE);
+
+            holder.show_message.setText(chat.getMessage());
+        }else{
+            holder.show_message.setVisibility(View.GONE);
+            holder.image_message.setVisibility(View.VISIBLE);
+
+            Glide.with(mContext).load(chat.getMessage()).placeholder(R.drawable
+            .ic_action_name_img).into(holder.image_message);
+        }
+
+
     }
 
     @Override
@@ -67,10 +84,14 @@ public class MessageAdapter extends RecyclerView.Adapter<MessageAdapter.ViewHold
     public  class ViewHolder extends RecyclerView.ViewHolder{
 
         public TextView show_message;
-        public ImageView profile_image;
+        public ImageView profile_image, image_message;
+
 
         public ViewHolder(View itemView) {
             super(itemView);
+
+            //?
+            image_message = itemView.findViewById(R.id.image_message);
 
             show_message = itemView.findViewById(R.id.show_message);
             profile_image = itemView.findViewById(R.id.profile_image);
@@ -80,9 +101,8 @@ public class MessageAdapter extends RecyclerView.Adapter<MessageAdapter.ViewHold
     @Override
     public int getItemViewType(int position) {
         fuser = FirebaseAuth.getInstance().getCurrentUser();
-        if (mChat.get(position).getSender().equals(fuser.getUid())){
-            return MSG_TYPE_RIGHT;
-        } else {
+        if (mChat.get(position).getSender().equals(fuser.getUid())) return MSG_TYPE_RIGHT;
+        else {
             return MSG_TYPE_LEFT;
         }
     }

@@ -15,6 +15,7 @@ import com.bumptech.glide.Glide;
 import com.example.chatapp.MessageActivity;
 import com.example.chatapp.Model.User;
 import com.example.chatapp.R;
+import com.example.chatapp.Model.Chat;
 
 import java.util.List;
 

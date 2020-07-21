@@ -6,12 +6,11 @@ public class User {
     private String username;
     private String imageURL;
 
-    public User(String id, String username, String imageURL) {
+    public User(String id, String username, String imageURL ){
         this.id = id;
         this.username = username;
         this.imageURL = imageURL;
     }
-
     public User(){
 
     }
@@ -39,4 +38,5 @@ public class User {
     public void setImageURL(String imageURL) {
         this.imageURL = imageURL;
     }
+
 }

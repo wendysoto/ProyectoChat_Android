@@ -1,15 +1,14 @@
 package com.example.chatapp.Fragments;
 
 import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
 
 import com.example.chatapp.Adapter.UserAdapter;
 import com.example.chatapp.Model.User;
@@ -66,8 +65,10 @@ public class UsersFragment extends Fragment {
                         mUsers.add(user);
                     }
                 }
+
                 userAdapter = new UserAdapter(getContext(),mUsers);
                 recyclerView.setAdapter(userAdapter);
+
             }
 
             @Override
