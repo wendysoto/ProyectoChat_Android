@@ -1,3 +1,5 @@
+#
+=======
 # ProyectoChat_Android
  # Proyecto correspondiente al primer Bimestre de la materia de tópicos especiales
 INTEGRANTES DE GRUPO:
@@ -10,5 +12,3 @@ Aplicación de chat, el  cual permite a un usuario interactuar con uno o varios 
 
 Proyecto desarrollado en Android Studio.
 
-
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 

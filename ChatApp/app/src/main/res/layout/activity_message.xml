@@ -53,6 +53,13 @@
         android:background="#fff"
         android:layout_alignParentBottom="true"
         android:layout_height="wrap_content">
+        
+        <ImageButton
+            android:id="@+id/btn_send_img"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/ic_action_name_send_img"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -60,16 +67,17 @@
             android:id="@+id/text_send"
             android:background="@android:color/transparent"
             android:hint="Escribe un mensaje..."
+            android:layout_toRightOf="@id/btn_send_img"
             android:layout_toLeftOf="@id/btn_send"
             android:layout_centerVertical="true"/>
 
         <ImageButton
+            android:id="@+id/btn_send"
             android:layout_width="40dp"
             android:layout_height="40dp"
-            android:id="@+id/btn_send"
-            android:background="@drawable/ic_action_name"
             android:layout_alignParentEnd="true"
-            android:layout_alignParentRight="true" />
+            android:layout_alignParentRight="true"
+            android:background="@android:drawable/ic_menu_send" />
 
     </RelativeLayout>
 
