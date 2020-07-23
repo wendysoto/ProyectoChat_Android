@@ -97,6 +97,14 @@ public class MessageActivity extends AppCompatActivity {
                 finish();
             }
         });
+       /* toolbar.setNavigationOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                // finish();
+                //and this
+                startActivity(new Intent(MessageActivity.this, InitActivity.class).setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP));
+            }
+        });*/
 
         recyclerView = findViewById(R.id.recycler_view);
         recyclerView.setHasFixedSize(true);
@@ -208,7 +216,7 @@ public class MessageActivity extends AppCompatActivity {
             }
         });
     }
-/////
+/*/////
 //MUESTRA SI EL USUARIO ESTA EN LINEA
 private void status ( String status){
     reference=FirebaseDatabase.getInstance().getReference("Users").child(fUser.getUid());
@@ -219,7 +227,7 @@ private void status ( String status){
 }
     protected void onResume(){
         super.onResume();
-        status("en línea");
+        status("online");
     }
 
     protected void onPause(){
@@ -228,7 +236,7 @@ private void status ( String status){
     }
 
 
-    ////////////
+    ////////////*/
 
     private void sendImageMessage(Uri image_rui) throws IOException {
         //notify = true;

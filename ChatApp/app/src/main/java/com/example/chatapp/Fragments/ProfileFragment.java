@@ -50,11 +50,11 @@ public class ProfileFragment extends Fragment {
     TextView username ,correo;
     DatabaseReference reference;
     FirebaseUser fuser;
-    //agregado
+    /*//agregado
     FirebaseAuth fAuth;
     FirebaseStorage fStorage;
     String userId;
-    //
+    //*/
     StorageReference storageReference;
     private static final int IMAGE_REQUEST=1;
 
@@ -74,13 +74,12 @@ public class ProfileFragment extends Fragment {
         correo=view.findViewById(R.id.email);
 
         storageReference= FirebaseStorage.getInstance().getReference("uploads");
-        //agregado
+        /*//agregado
         fAuth=FirebaseAuth.getInstance();
         fStorage=FirebaseStorage.getInstance();
         userId=fAuth.getCurrentUser().getUid();
+        //*/
 
-
-        //
         fuser= FirebaseAuth.getInstance().getCurrentUser();
         reference= FirebaseDatabase.getInstance().getReference("Users").child(fuser.getUid());
 
