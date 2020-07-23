@@ -35,6 +35,7 @@
         android:visibility="gone"
         android:text="Hola"
         android:id="@+id/show_message"
+        android:textColor="#FFFFFF"
         android:padding="8dp"
         />
 

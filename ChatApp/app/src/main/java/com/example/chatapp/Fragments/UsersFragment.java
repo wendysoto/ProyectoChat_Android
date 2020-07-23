@@ -1,5 +1,6 @@
 package com.example.chatapp.Fragments;
 
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,6 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.chatapp.Adapter.UserAdapter;
 import com.example.chatapp.Model.User;
 import com.example.chatapp.R;
+import com.google.android.gms.auth.api.signin.internal.Storage;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
@@ -20,6 +22,8 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.storage.StorageReference;
+import com.google.firebase.storage.StorageTask;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,6 +34,10 @@ public class UsersFragment extends Fragment {
     private UserAdapter userAdapter;
 
     private List<User> mUsers;
+    StorageReference storageReferences;
+    private static final int IMAGE_REQUEST=1;
+    private Uri imageUri;
+    private StorageTask uploadTask;
 
 
     @Override

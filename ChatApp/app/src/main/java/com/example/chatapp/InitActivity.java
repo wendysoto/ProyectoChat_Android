@@ -18,6 +18,7 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 
 import com.example.chatapp.Fragments.ChatsFragment;
+import com.example.chatapp.Fragments.ProfileFragment;
 import com.example.chatapp.Fragments.UsersFragment;
 import com.example.chatapp.Model.User;
 import com.google.android.material.tabs.TabLayout;
@@ -30,6 +31,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
@@ -80,7 +82,8 @@ public class InitActivity extends AppCompatActivity {
         ViewPagerAdapter viewPagerAdpater = new ViewPagerAdapter(getSupportFragmentManager());
 
         viewPagerAdpater.addFragment(new ChatsFragment(), "Chats");
-        viewPagerAdpater.addFragment(new UsersFragment(), "Usuarios");
+        viewPagerAdpater.addFragment(new UsersFragment(), "Contactos");
+        viewPagerAdpater.addFragment(new ProfileFragment(), "Perfil");
 
         viewPager.setAdapter(viewPagerAdpater);
 
@@ -141,4 +144,21 @@ public class InitActivity extends AppCompatActivity {
         }
     }
 
+    //MUESTRA SI EL USUARIO ESTA EN LINEA
+    private void status ( String status){
+        reference=FirebaseDatabase.getInstance().getReference("Users").child(firebaseUser.getUid());
+        HashMap<String, Object>hashMap=new HashMap<>();
+        hashMap.put("status",status);
+        reference.updateChildren(hashMap);
+
+    }
+    protected void onResume(){
+        super.onResume();
+        status("en línea");
+    }
+
+    protected void onPause(){
+        super.onPause();
+        status("offline");
+    }
 }

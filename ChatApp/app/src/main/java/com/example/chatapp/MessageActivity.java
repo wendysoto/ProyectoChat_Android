@@ -208,7 +208,27 @@ public class MessageActivity extends AppCompatActivity {
             }
         });
     }
+/////
+//MUESTRA SI EL USUARIO ESTA EN LINEA
+private void status ( String status){
+    reference=FirebaseDatabase.getInstance().getReference("Users").child(fUser.getUid());
+    HashMap<String, Object>hashMap=new HashMap<>();
+    hashMap.put("status",status);
+    reference.updateChildren(hashMap);
 
+}
+    protected void onResume(){
+        super.onResume();
+        status("en línea");
+    }
+
+    protected void onPause(){
+        super.onPause();
+        status("offline");
+    }
+
+
+    ////////////
 
     private void sendImageMessage(Uri image_rui) throws IOException {
         //notify = true;
@@ -281,20 +301,20 @@ public class MessageActivity extends AppCompatActivity {
     }
 
     private void showImagePickDialog(){
-        String[] options = {"Cámara", "Galeria"};
+        String[] options = { "Galeria"};
 
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle("Escoger la imagen de ...");
+        builder.setTitle("Abrir ...");
 
         builder.setItems(options, new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int which) {
-                if(which==0){
+               /* if(which==0){
                     PickFromCamera();
-                }
-                if (which==1){
+                }*/
+               // if (which==1){
                     PickFromStorage();
-                }
+                //}
             }
         });
         builder.create().show();
@@ -305,7 +325,7 @@ public class MessageActivity extends AppCompatActivity {
         intent.setType("image/*");
         startActivityForResult(intent, IMAGE_PICK_GALLERY_CODE);
     }
-
+//CAMARA
     private void PickFromCamera() {
         ContentValues cv = new ContentValues();
         cv.put(MediaStore.Images.Media.TITLE,"Temp Pick");
