@@ -58,9 +58,9 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 
 
 ### Diseño visual (imágenes, íconos, papeleta de colores, splash screen)
-| **Logo** | **Splash Screen** | **Diseño visual de los chats** |
+| **Logo** | **Splash Screen** | **Colores** |
 | ------------- | ------------- | ------------- |
-| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/message.jpeg)|
+| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) |
 
 
 
@@ -77,5 +77,5 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | Azul Claro | #1c9eb4  |
 |blanco | #ffffff
 
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) 
+
 
