@@ -81,6 +81,8 @@ public class RegisterActivity extends AppCompatActivity {
                     hashMap.put("id",userid);
                     hashMap.put("username",username);
                     hashMap.put("imageURL","default");
+                    hashMap.put("status","offline");
+
                     Toast.makeText(RegisterActivity.this, "Usuario Creado EXitosamente", Toast.LENGTH_SHORT).show();
                     reference.setValue(hashMap).addOnCompleteListener(new OnCompleteListener<Void>(){
                         @Override

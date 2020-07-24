@@ -105,8 +105,10 @@ public class InitActivity extends AppCompatActivity {
             case  R.id.logout:
                 FirebaseAuth.getInstance().signOut();
                 //change this code because app will crash
-                startActivity(new Intent(InitActivity.this, MainActivity.class));
+               /* startActivity(new Intent(InitActivity.this, MainActivity.class));
                 finish();
+                return true;*/
+                startActivity(new Intent(InitActivity.this, MainActivity.class).setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP));
                 return true;
         }
 
@@ -146,7 +148,7 @@ public class InitActivity extends AppCompatActivity {
         }
     }
 
-    /*//MUESTRA SI EL USUARIO ESTA EN LINEA
+    //MUESTRA SI EL USUARIO ESTA EN LINEA
     private void status ( String status){
         reference=FirebaseDatabase.getInstance().getReference("Users").child(firebaseUser.getUid());
         HashMap<String, Object>hashMap=new HashMap<>();
@@ -162,5 +164,5 @@ public class InitActivity extends AppCompatActivity {
     protected void onPause(){
         super.onPause();
         status("offline");
-    }*/
+    }
 }

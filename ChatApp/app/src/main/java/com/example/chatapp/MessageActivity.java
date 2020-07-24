@@ -94,7 +94,8 @@ public class MessageActivity extends AppCompatActivity {
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                finish();
+                //finish();
+                startActivity(new Intent(MessageActivity.this, InitActivity.class).setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP));
             }
         });
        /* toolbar.setNavigationOnClickListener(new View.OnClickListener() {
@@ -216,7 +217,7 @@ public class MessageActivity extends AppCompatActivity {
             }
         });
     }
-/*/////
+/////
 //MUESTRA SI EL USUARIO ESTA EN LINEA
 private void status ( String status){
     reference=FirebaseDatabase.getInstance().getReference("Users").child(fUser.getUid());
@@ -236,7 +237,7 @@ private void status ( String status){
     }
 
 
-    ////////////*/
+    ////////////
 
     private void sendImageMessage(Uri image_rui) throws IOException {
         //notify = true;

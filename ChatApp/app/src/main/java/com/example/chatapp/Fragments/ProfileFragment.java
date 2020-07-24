@@ -47,7 +47,7 @@ import static android.app.Activity.RESULT_OK;
 
 public class ProfileFragment extends Fragment {
     CircleImageView image_profile;
-    TextView username ,correo;
+    TextView username;
     DatabaseReference reference;
     FirebaseUser fuser;
     /*//agregado
@@ -71,7 +71,7 @@ public class ProfileFragment extends Fragment {
 
         image_profile=view.findViewById(R.id.profile_image);
         username=view.findViewById(R.id.username);
-        correo=view.findViewById(R.id.email);
+
 
         storageReference= FirebaseStorage.getInstance().getReference("uploads");
         /*//agregado
@@ -86,16 +86,21 @@ public class ProfileFragment extends Fragment {
         reference.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                User user=dataSnapshot.getValue(User.class);
-                username.setText(user.getUsername());
-                correo.setText(user.getId());
 
-                if (user.getImageURL().equals("default")) {
-                    image_profile.setImageResource(R.mipmap.ic_launcher);
+                if(isAdded()){
+                    //Load image if the fragment is currently added to its activity.
+                    User user = dataSnapshot.getValue(User.class);
+                    username.setText(user.getUsername());
+                    if (user.getImageURL().equals("default")) {
+                        image_profile.setImageResource(R.mipmap.ic_launcher);
 
-                }else{
-                    Glide.with(getContext()).load(user.getImageURL()).into(image_profile);
+                    }else{
+                        Glide.with(getContext()).load(user.getImageURL()).into(image_profile);
+                    }
                 }
+
+
+
             }
 
             @Override
