@@ -38,46 +38,16 @@ Cuando el registro sea exitoso entraremos a la página principal del chat donde 
 
  Trabajo asignado a cada integrante
 Para ello hemos creado un tablero en Zenhub con las principales actividades a realizar por cada uno de los miembros de grupo las cuales fueron distribuidas de la siguiente manera
+| **Andrés Alvear** | **Wendy Soto** | **Erick Vargas** |
+| ------------- | ------------- | ------------- |
+| 	Interfaz envío y recepción de mensajes  |	Creación del repositorio con Readme explicativo |  Manual de uso del proyecto con funcionalidades |
+|  Interfaz envío y recepción de mensajes  | Creación de ramas para integrantes  | 	Cargar splash screen, ícono  |
+| Interfaz envío y recepción de mensajes |Interfaz registro de usuario | Interfaz login usuario |
+|Alojar proyecto en la rama raíz | Envió de mensajes | Envió de mensajes|
+| Envió de mensajes desde galería | Requerimientos del sistema |	Video explicativo individual |
+|Creación Base de datos en firebase | Funcionalidad de la APK en dispositivos | |
+| Video explicativo individual |   Video explicativo individual ||
 
-**Andrés Alvear**
-
-•	Interfaz envío y recepción de mensajes
-
-•	Alojar proyecto en la rama raíz
-
-•	Envió de mensajes desde galería 
-
-•	Creación Base de datos en firebase 
-
-•	Video explicativo individual
-
-**Wendy Soto**
-
-•	Creación del repositorio con Readme explicativo
-
-•	Creación de ramas para integrantes
-
-•	Interfaz registro de usuario
-
-•	Envió de mensajes
-
-•	Requerimientos del sistema
-
-•	Funcionalidad de la APK en dispositivos
-
-•	Video explicativo individual
-
-**Erick Vargas**
-
-•	Manual de uso del proyecto con funcionalidades
-
-•	Cargar splash screen, ícono
-
-•	Interfaz login usuario
-
-•	Envió de mensajes
-
-•	Video explicativo individual
 
 
 #### Modelos donde fue probados los proyectos
