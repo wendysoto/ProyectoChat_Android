@@ -14,17 +14,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/toolbar"
-        android:layout_marginTop="59dp"
+        android:layout_marginTop="64dp"
         android:gravity="center_horizontal"
         android:orientation="vertical"
         android:padding="16dp">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Crear Nueva Cuenta"
-            android:textSize="20sp"
-            android:textStyle="bold" />
 
         <com.rengwuxian.materialedittext.MaterialEditText
             android:id="@+id/username"
