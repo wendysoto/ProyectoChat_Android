@@ -37,7 +37,7 @@ Cuando el registro sea exitoso entraremos a la página principal del chat donde 
 # PREPARACIÓN DEL TRABAJO TÉCNICO
 
  Trabajo asignado a cada integrante
-Para ello hemos creado un tablero en Zenhub con las principales actividades a realizar por cada uno de los miembros de grupo las cuales fueron distribuidas de la siguiente manera
+Para ello hemos creado un tablero en Zenhub con las principales actividades a realizar por cada uno de los miembros de grupo las cuales fueron distribuidas de la siguiente manera:
 | **Andrés Alvear** | **Wendy Soto** | **Erick Vargas** |
 | ------------- | ------------- | ------------- |
 | 	Interfaz envío y recepción de mensajes  |	Creación del repositorio con Readme explicativo |  Manual de uso del proyecto con funcionalidades |
@@ -63,17 +63,17 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 
 
 #### Diseño visual (imágenes, íconos, papeleta de colores, splash screen)
-**Logo**
+| **Logo** | **Splash Screen** | **Diseño visual de los chats** |
+| ------------- | ------------- | ------------- |
+| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg)|
 
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG) 
 
-**Splash Screen**
 
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg) 
 
-**Diseño visual de los chats**
 
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) 
+
+
+
 
 **Paleta de colores**
 | Color | Hexadecimal |
