@@ -50,7 +50,7 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 
 
 
-#### Modelos donde fue probados los proyectos
+### Modelos donde fue probados los proyectos
 **Nokia 3 android 7.1.1**
 
 
