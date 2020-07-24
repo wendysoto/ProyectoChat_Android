@@ -43,9 +43,13 @@ Para ello hemos creaco un tablero en Zenhub con las principales actividades a re
 Andrés Alvear:
 
 •	Interfaz envío y recepción de mensajes
+
 •	Alojar proyecto en la rama raíz
+
 •	Envió de mensajes desde galería 
+
 •	Creación Base de datos en firebase 
+
 •	Video explicativo individual
 
 Wendy Soto:
@@ -72,16 +76,20 @@ Nokia 3 android 7.1.1
 
 
 
+
 J2 android 5.1.1
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg) 
 
 
 
 # Diseño visual (imágenes, íconos, papeleta de colores, splash screen)
 Logo
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG) 
 
 Splash Screen
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg) 
 
 Diseño visual de los chats
@@ -89,5 +97,6 @@ Diseño visual de los chats
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) 
 
 Paleta de colores
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) 
 
