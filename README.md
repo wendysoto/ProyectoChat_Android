@@ -1,13 +1,12 @@
-﻿#
-=======
+
 # ProyectoChat_Android
- # Proyecto correspondiente al primer Bimestre de la materia de tópicos especiales
+ #### Proyecto correspondiente al primer Bimestre de la materia de tópicos especiales
 INTEGRANTES DE GRUPO:
 - Andres Alvear
 - Wendy Soto
 - Erick Vargas
 
-# Proyecto:
+## Descripción:
 Aplicación de chat, el  cual permite a un usuario interactuar con uno o varios usuarios mediante mensajes de texto y fotos.
 
 Proyecto desarrollado en Android Studio.
@@ -31,8 +30,8 @@ Entonces vamos al registro donde añadiremos el nombre de usuario, el correo, la
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/register.jpeg) 
 
-Cuando el registro sea exitoso entraremos a la página principal del chat donde nos aparecerán las opciones de los chats, contactos y el perfil del usuario asi también nos indicará los usuarios que se encuentran activos
-.
+Cuando el registro sea exitoso entraremos a la página principal del chat donde nos aparecerán las opciones de los chats, contactos y el perfil del usuario asi también nos indicará los usuarios que se encuentran activos.
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) 
 
 # PREPARACIÓN DEL TRABAJO TÉCNICO
@@ -40,7 +39,7 @@ Cuando el registro sea exitoso entraremos a la página principal del chat donde 
  Trabajo asignado a cada integrante
 Para ello hemos creaco un tablero en Zenhub con las principales actividades a realizar por cada uno de los miembros de grupo las cuales fueron distribuidas de la siguiente manera
 
-Andrés Alvear:
+####Andrés Alvear:
 
 •	Interfaz envío y recepción de mensajes
 
@@ -52,7 +51,7 @@ Andrés Alvear:
 
 •	Video explicativo individual
 
-Wendy Soto:
+####Wendy Soto:
 
 •	Creación del repositorio con Readme explicativo
 
@@ -68,7 +67,7 @@ Wendy Soto:
 
 •	Video explicativo individual
 
-Erick Vargas:
+####Erick Vargas:
 
 •	Manual de uso del proyecto con funcionalidades
 
@@ -81,7 +80,7 @@ Erick Vargas:
 •	Video explicativo individual
 
 
-# Modelos donde fue probados los proyectos
+#### Modelos donde fue probados los proyectos
 Nokia 3 android 7.1.1
 
 
@@ -93,20 +92,20 @@ J2 android 5.1.1
 
 
 
-# Diseño visual (imágenes, íconos, papeleta de colores, splash screen)
+#### Diseño visual (imágenes, íconos, papeleta de colores, splash screen)
 Logo
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG) 
 
-Splash Screen
+**Splash Screen**
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg) 
 
-Diseño visual de los chats
+**Diseño visual de los chats
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) 
 
-Paleta de colores
+**Paleta de colores
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) 
 
