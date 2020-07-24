@@ -55,19 +55,29 @@ Andrés Alvear:
 Wendy Soto:
 
 •	Creación del repositorio con Readme explicativo
+
 •	Creación de ramas para integrantes
+
 •	Interfaz registro de usuario
+
 •	Envió de mensajes
+
 •	Requerimientos del sistema
+
 •	Funcionalidad de la APK en dispositivos
+
 •	Video explicativo individual
 
 Erick Vargas:
 
 •	Manual de uso del proyecto con funcionalidades
+
 •	Cargar splash screen, ícono
+
 •	Interfaz login usuario
+
 •	Envió de mensajes
+
 •	Video explicativo individual
 
 
@@ -95,8 +105,6 @@ Splash Screen
 Diseño visual de los chats
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) 
-
 Paleta de colores
-
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) 
 
