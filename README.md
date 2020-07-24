@@ -81,19 +81,19 @@ Para ello hemos creaco un tablero en Zenhub con las principales actividades a re
 
 
 #### Modelos donde fue probados los proyectos
-Nokia 3 android 7.1.1
+**Nokia 3 android 7.1.1**
 
 
 
 
-J2 android 5.1.1
+**J2 android 5.1.1**
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg) 
 
 
 
 #### Diseño visual (imágenes, íconos, papeleta de colores, splash screen)
-Logo
+**Logo**
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG) 
 
