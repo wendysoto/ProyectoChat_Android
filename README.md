@@ -15,23 +15,33 @@ Proyecto desarrollado en Android Studio.
 # MANUAL DE USO
 Primero vamos a descargar la apk generada por el proyecto
  
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 
-Después de descargarla la instalamos en el teléfono, si nos pide permisos de seguridad en aplicaciones desconocidas solo activamos el permiso.
-Al terminar la instalación se genera el ícono de nuestra apk ya para poder ser inicializada
- 
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png)
 
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/splash.jpeg) 
+Después de descargarla la instalamos en el teléfono, si nos pide permisos de seguridad en aplicaciones desconocidas solo activamos el permiso.
+Al terminar la instalación se genera el ícono de nuestra apk ya para poder ser inicializada 
+
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg) 
+
+
 En la primera pantalla que aparece nos solicita ingresar nuestro correo y contraseña si no tenemos una cuenta registrada no podremos acceder
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 
+
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/login.jpeg) 
+
 Entonces vamos al registro donde añadiremos el nombre de usuario, el correo, la contraseña.
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 
-Cuando el registro sea exitoso entraremos a la página principal del chat donde nos aparecerán las opciones de los chats, contactos y el perfil del usuario.
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 
-II.  PREPARACIÓN DEL TRABAJO TÉCNICO
-A.  Trabajo asignado a cada integrante
-En la siguiente figura se muestra la asignación de tareas en Zenhub las cuales fueron distribuidas de la siguiente manera
+
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/register.jpeg) 
+
+Cuando el registro sea exitoso entraremos a la página principal del chat donde nos aparecerán las opciones de los chats, contactos y el perfil del usuario asi también nos indicará los usuarios que se encuentran activos
+.
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) 
+
+# PREPARACIÓN DEL TRABAJO TÉCNICO
+
+ Trabajo asignado a cada integrante
+Para ello hemos creaco un tablero en Zenhub con las principales actividades a realizar por cada uno de los miembros de grupo las cuales fueron distribuidas de la siguiente manera
+
 Andrés Alvear:
+
 •	Interfaz envío y recepción de mensajes
 •	Alojar proyecto en la rama raíz
 •	Envió de mensajes desde galería 
@@ -39,6 +49,7 @@ Andrés Alvear:
 •	Video explicativo individual
 
 Wendy Soto:
+
 •	Creación del repositorio con Readme explicativo
 •	Creación de ramas para integrantes
 •	Interfaz registro de usuario
@@ -48,6 +59,7 @@ Wendy Soto:
 •	Video explicativo individual
 
 Erick Vargas:
+
 •	Manual de uso del proyecto con funcionalidades
 •	Cargar splash screen, ícono
 •	Interfaz login usuario
@@ -55,24 +67,27 @@ Erick Vargas:
 •	Video explicativo individual
 
 
-D.  Modelos donde fue probados los proyectos
+# Modelos donde fue probados los proyectos
 Nokia 3 android 7.1.1
 
 
 
 J2 android 5.1.1
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg) 
 
 
 
-E.  Diseño visual (imágenes, íconos, papeleta de colores, splash screen)
-Logo![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 
+# Diseño visual (imágenes, íconos, papeleta de colores, splash screen)
+Logo
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG) 
+
 Splash Screen
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg) 
 
 Diseño visual de los chats
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 
+
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) 
 
 Paleta de colores
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/app_c.png) 
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) 
 
