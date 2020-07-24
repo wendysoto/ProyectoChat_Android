@@ -39,7 +39,7 @@ Cuando el registro sea exitoso entraremos a la página principal del chat donde 
  Trabajo asignado a cada integrante
 Para ello hemos creaco un tablero en Zenhub con las principales actividades a realizar por cada uno de los miembros de grupo las cuales fueron distribuidas de la siguiente manera
 
-####Andrés Alvear:
+**Andrés Alvear**
 
 •	Interfaz envío y recepción de mensajes
 
@@ -51,7 +51,7 @@ Para ello hemos creaco un tablero en Zenhub con las principales actividades a re
 
 •	Video explicativo individual
 
-####Wendy Soto:
+**Wendy Soto**
 
 •	Creación del repositorio con Readme explicativo
 
@@ -67,7 +67,7 @@ Para ello hemos creaco un tablero en Zenhub con las principales actividades a re
 
 •	Video explicativo individual
 
-####Erick Vargas:
+**Erick Vargas**
 
 •	Manual de uso del proyecto con funcionalidades
 
@@ -101,11 +101,11 @@ Logo
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg) 
 
-**Diseño visual de los chats
+**Diseño visual de los chats**
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) 
 
-**Paleta de colores
+**Paleta de colores**
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) 
 
