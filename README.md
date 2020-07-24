@@ -106,6 +106,11 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) 
 
 **Paleta de colores**
+| Color | Hexadecimal |
+| ------------- | ------------- |
+| Azul  | #192d37  |
+| Azul Claro | #1c9eb4  |
+|blanco | #ffffff
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) 
 
