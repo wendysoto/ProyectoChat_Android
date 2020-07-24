@@ -37,7 +37,7 @@ Cuando el registro sea exitoso entraremos a la página principal del chat donde 
 # PREPARACIÓN DEL TRABAJO TÉCNICO
 
  Trabajo asignado a cada integrante
-Para ello hemos creaco un tablero en Zenhub con las principales actividades a realizar por cada uno de los miembros de grupo las cuales fueron distribuidas de la siguiente manera
+Para ello hemos creado un tablero en Zenhub con las principales actividades a realizar por cada uno de los miembros de grupo las cuales fueron distribuidas de la siguiente manera
 
 **Andrés Alvear**
 
