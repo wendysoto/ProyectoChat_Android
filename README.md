@@ -40,7 +40,7 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | **Andrés Alvear** | **Wendy Soto** | **Erick Vargas** |
 | ------------- | ------------- | ------------- |
 | 	Interfaz envío y recepción de mensajes  |	Creación del repositorio con Readme explicativo |  Manual de uso del proyecto con funcionalidades |
-|  Interfaz envío y recepción de mensajes  | Creación de ramas para integrantes  | 	Cargar splash screen, ícono  |
+|  Interfaz envío y recepción de mensajes  |Elaboración de Mockups  | 	Cargar splash screen, ícono  |
 | Interfaz envío y recepción de mensajes |Interfaz registro de usuario | Interfaz login usuario |
 |Alojar proyecto en la rama raíz | Envió de mensajes | Envió de mensajes|
 | Envió de mensajes desde galería | Requerimientos del sistema |	Video explicativo individual |
