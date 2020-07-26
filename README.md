@@ -31,7 +31,9 @@ Entonces vamos al registro donde añadiremos el nombre de usuario, el correo, la
 
 Cuando el registro sea exitoso entraremos a la página principal del chat donde nos aparecerán las opciones de los chats, contactos y el perfil del usuario asi también nos indicará los usuarios que se encuentran activos.
 
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) 
+| **Chats** | **Contactos** | **Envío de mensaje** |**Perfil** |
+| ------------- | ------------- | ------------- | ------------- |
+|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/contact.jpeg)  |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/message.jpeg)  |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/profile.jpeg) |
 
 # PREPARACIÓN DEL TRABAJO TÉCNICO
 
@@ -55,17 +57,10 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg) |  ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |
 
 
-### Diseño visual (imágenes, íconos, papeleta de colores, splash screen)
-| **Logo** | **Splash Screen** | **Diseño visual de los chats** |
+### Diseño visual (imágenes, íconos, paleta de colores, splash screen)
+| **Logo** | **Splash Screen** | **Colores** |
 | ------------- | ------------- | ------------- |
-| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/message.jpeg)|
-
-
-
-
-
-
-
+| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) |
 
 
 **Paleta de colores**
@@ -75,5 +70,5 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | Azul Claro | #1c9eb4  |
 |blanco | #ffffff
 
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) 
+
 
