@@ -42,19 +42,22 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | **Andrés Alvear** | **Wendy Soto** | **Erick Vargas** |
 | ------------- | ------------- | ------------- |
 | 	Interfaz envío y recepción de mensajes  |	Creación del repositorio con Readme explicativo |  Manual de uso del proyecto con funcionalidades |
-|  Interfaz envío y recepción de mensajes  |Elaboración de Mockups  | 	Cargar splash screen, ícono  |
-| Interfaz envío y recepción de mensajes |Interfaz registro de usuario | Interfaz login usuario |
-|Alojar proyecto en la rama raíz | Envió de mensajes | Envió de mensajes|
-| Envió de mensajes desde galería | Requerimientos del sistema |	Video explicativo individual |
-|Creación Base de datos en firebase | Funcionalidad de la APK en dispositivos | |
+|  Alojar proyecto en la rama raíz  |Elaboración de Mockups  | 	Cargar splash screen, ícono  |
+| Envió de mensajes desde galería |Interfaz registro de usuario | Interfaz login usuario |
+| Creación Base de datos en firebase  | Envió de mensajes | Envió de mensajes|
+| Requerimientos del sistema | Requerimientos del sistema |	Video explicativo individual |
+| Funcionalidad de la APK en dispositivos | Funcionalidad de la APK en dispositivos | |
 | Video explicativo individual |   Video explicativo individual ||
 
-
+ ### Base de datos en Firebase
+ | **Database** | **Authentication** | **Storage** |
+| ------------- | ------------- | ------------- |
+| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/database.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/authentication.JPG)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/Storage.JPG) |
 
 ### Modelos donde fue probada la Apk
 | **Nokia 3 android 7.1.1** | **J2 android 5.1.1** | **Tablet** |
 | ------------- | ------------- | ------------- |
-| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg) |  ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |
+| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/login.jpeg) |  ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |
 
 
 ### Diseño visual (imágenes, íconos, paleta de colores, splash screen)
@@ -69,6 +72,12 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | Azul  | #192d37  |
 | Azul Claro | #1c9eb4  |
 |blanco | #ffffff
+
+### Referencias: 
+[1] 	A. Pervaiz, «Firebase Social Media App - 17 Publish Posts,» [En línea]. Available: https://www.youtube.com/watch?v=vcjvWaJqztE.
+[2] 	A. Pervaiz, «Firebase Social Media App - 29 Send Image in Chat,» [En línea]. Available: https://www.youtube.com/watch?v=ASDLYfD2QVs.
+[3] 	K. Dev, «Chat App with Firebase Andorid Tutorials,» [En línea]. Available: https://www.youtube.com/playlist?list=PLzLFqCABnRQftQQETzoVMuteXzNiXmnj8.
+
 
 
 
