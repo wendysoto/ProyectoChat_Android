@@ -44,7 +44,7 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | Creación Base de datos en firebase  |	Creación del repositorio con Readme explicativo |  Manual de uso del proyecto con funcionalidades |
 | Requerimientos del sistema  |Elaboración de Mockups  | 	Cargar splash screen, ícono  |
 | Envió de mensajes desde galería |Interfaz registro de usuario | Interfaz login usuario |
-| Interfaz envío y recepción de mensajes | Envió de mensajes | Envió de mensajes|
+| Interfaz envío y recepción de mensajes | Envío de mensajes | Envió de mensajes|
 | Alojar proyecto en la rama raíz| Requerimientos del sistema |	Video explicativo individual |
 | Funcionalidad de la APK en dispositivos | Funcionalidad de la APK en dispositivos | |
 | Video explicativo individual |   Video explicativo individual ||
