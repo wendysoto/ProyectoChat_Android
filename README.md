@@ -41,11 +41,11 @@ Cuando el registro sea exitoso entraremos a la página principal del chat donde 
 Para ello hemos creado un tablero en Zenhub con las principales actividades a realizar por cada uno de los miembros de grupo las cuales fueron distribuidas de la siguiente manera:
 | **Andrés Alvear** | **Wendy Soto** | **Erick Vargas** |
 | ------------- | ------------- | ------------- |
-| 	Interfaz envío y recepción de mensajes  |	Creación del repositorio con Readme explicativo |  Manual de uso del proyecto con funcionalidades |
-|  Alojar proyecto en la rama raíz  |Elaboración de Mockups  | 	Cargar splash screen, ícono  |
+| Creación Base de datos en firebase  |	Creación del repositorio con Readme explicativo |  Manual de uso del proyecto con funcionalidades |
+| Requerimientos del sistema  |Elaboración de Mockups  | 	Cargar splash screen, ícono  |
 | Envió de mensajes desde galería |Interfaz registro de usuario | Interfaz login usuario |
-| Creación Base de datos en firebase  | Envió de mensajes | Envió de mensajes|
-| Requerimientos del sistema | Requerimientos del sistema |	Video explicativo individual |
+| Interfaz envío y recepción de mensajes | Envió de mensajes | Envió de mensajes|
+| Alojar proyecto en la rama raíz| Requerimientos del sistema |	Video explicativo individual |
 | Funcionalidad de la APK en dispositivos | Funcionalidad de la APK en dispositivos | |
 | Video explicativo individual |   Video explicativo individual ||
 
@@ -74,8 +74,11 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 |blanco | #ffffff
 
 ### Referencias: 
+
 [1] 	A. Pervaiz, «Firebase Social Media App - 17 Publish Posts,» [En línea]. Available: https://www.youtube.com/watch?v=vcjvWaJqztE.
+
 [2] 	A. Pervaiz, «Firebase Social Media App - 29 Send Image in Chat,» [En línea]. Available: https://www.youtube.com/watch?v=ASDLYfD2QVs.
+
 [3] 	K. Dev, «Chat App with Firebase Andorid Tutorials,» [En línea]. Available: https://www.youtube.com/playlist?list=PLzLFqCABnRQftQQETzoVMuteXzNiXmnj8.
 
 
