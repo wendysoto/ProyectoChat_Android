@@ -33,7 +33,7 @@ Entonces vamos al registro donde añadiremos el nombre de usuario, el correo, la
 
 Cuando el registro sea exitoso entraremos a la página principal del chat donde nos aparecerán las opciones de los chats, contactos y el perfil del usuario asi también nos indicará los usuarios que se encuentran activos.
 
-| **Chats** | **Contactos** | **Envío de mensaje** |**Perfil** |
+| **Chats** :speech_balloon: | **Contactos** :busts_in_silhouette: | **Envío de mensaje** :heavy_check_mark:|**Perfil** :bust_in_silhouette:|
 | ------------- | ------------- | ------------- | ------------- |
 |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/contact.jpeg)  |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/message.jpeg)  |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/profile.jpeg) |
 
