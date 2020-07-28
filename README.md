@@ -23,7 +23,18 @@ Creación de layout
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/dependencias.jpeg)
 
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/autenticacion.jpeg)
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/estado%20activo.jpeg)
+
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/message%20type_text.jpeg)
+
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantallas%20init.jpeg)
+
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/class.user.jpeg)
+
+![myimage-alt-tag](ttps://github.com/wendysoto/ProyectoChat_Android/blob/master/images/class_chat.jpeg)
+
 
 
 # Manual de Uso :book:
