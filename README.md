@@ -13,7 +13,7 @@ La Aplicación de chat permite a un usuario interactuar con uno o varios usuario
 Proyecto desarrollado en Android Studio.
 ```
 
-# MANUAL DE USO :books:
+# Manual de Uso :books:
 Primero vamos a descargar la apk generada por el proyecto, la misma que se encuentra en la rama master de nombre chatApp.apk
  
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/app_c.png)
