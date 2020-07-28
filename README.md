@@ -60,7 +60,7 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 
 | **Nokia 3 android 7.1.1** | **J2 android 5.1.1** | **Tablet** |
 | ------------- | ------------- | ------------- |
-| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/login.jpeg) |  ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |
+| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/nokia3.jpg)  |	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/login.jpeg) |  ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/tablet.JPG)  |
 
 
 ### Diseño visual (imágenes, íconos, paleta de colores, splash screen)  :red_circle:
