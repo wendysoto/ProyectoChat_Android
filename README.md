@@ -1,17 +1,17 @@
 
-# ProyectoChat_Android
+# ProyectoChat_Android 
  #### Proyecto correspondiente al primer Bimestre de la materia de Tópicos Especiales
 INTEGRANTES DE GRUPO:
 - Andres Alvear
 - Wendy Soto
 - Erick Vargas
 
-## Descripción:
+## Descripción  🔧:
 La Aplicación de chat permite a un usuario interactuar con uno o varios usuarios mediante mensajes de texto y fotos.
 
 Proyecto desarrollado en Android Studio.
 
-# MANUAL DE USO
+# MANUAL DE USO 🛠️
 Primero vamos a descargar la apk generada por el proyecto, la misma que se encuentra en la rama master de nombre chatApp.apk
  
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/app_c.png)
@@ -35,7 +35,7 @@ Cuando el registro sea exitoso entraremos a la página principal del chat donde 
 | ------------- | ------------- | ------------- | ------------- |
 |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/chats.jpeg) |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/contact.jpeg)  |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/message.jpeg)  |![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/profile.jpeg) |
 
-# PREPARACIÓN DEL TRABAJO TÉCNICO
+# PREPARACIÓN DEL TRABAJO TÉCNICO 🔩
 
  Trabajo asignado a cada integrante
 Para ello hemos creado un tablero en Zenhub con las principales actividades a realizar por cada uno de los miembros de grupo las cuales fueron distribuidas de la siguiente manera:
@@ -54,7 +54,8 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | ------------- | ------------- | ------------- |
 | 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/database.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/authentication.JPG)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/Storage.JPG) |
 
-### Modelos donde fue probada la Apk
+### Modelos donde fue probada la Apk ⌨️
+
 | **Nokia 3 android 7.1.1** | **J2 android 5.1.1** | **Tablet** |
 | ------------- | ------------- | ------------- |
 | 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/login.jpeg) |  ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |
@@ -72,17 +73,15 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | Azul  | #192d37  |
 | Azul Claro | #1c9eb4  |
 |blanco | #ffffff
-
 ## Videos en YouTube:
-### Andrés Alvear: 
-https://www.youtube.com/watch?v=MevrkOLo2zY&t=1s&app=desktop
-### Wendy Soto: 
-https://www.youtube.com/watch?v=euMbvI9Wb10
-### Erick Vargas: 
-https://www.youtube.com/watch?v=7EYaUd659QA
 
+```
+Andrés Alvear: https://www.youtube.com/watch?v=MevrkOLo2zY&t=1s&app=desktop
+Wendy Soto: https://www.youtube.com/watch?v=euMbvI9Wb10
+Erick Vargas: https://www.youtube.com/watch?v=7EYaUd659QA
 
-## Referencias: 
+```
+## Referencias 📌: 
 
 [1] 	A. Pervaiz, «Firebase Social Media App - 17 Publish Posts,» [En línea]. Available: https://www.youtube.com/watch?v=vcjvWaJqztE.
 
