@@ -37,14 +37,19 @@ autenticacion. Main Activity
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/message%20type_text.jpeg)
 
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/message_type_image.jpeg)
+
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantallas%20init.jpeg)
 
+clase usuario
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/class.user.jpeg)
 
-![myimage-alt-tag](ttps://github.com/wendysoto/ProyectoChat_Android/blob/master/images/class_chat.jpeg)
+clase chat
 
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/class_chat.jpeg)
 
 
 # Manual de Uso :book:
