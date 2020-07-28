@@ -17,7 +17,7 @@ Proyecto desarrollado en Android Studio.
 Primero vamos a descargar la apk generada por el proyecto, la misma que se encuentra en la rama master de nombre chatApp.apk
  
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/app_c.png)
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/mockup.JPG)
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/mockp.JPG)
 
 Después de descargarla la instalamos en el teléfono, si nos pide permisos de seguridad en aplicaciones desconocidas solo activamos el permiso.
 Al terminar la instalación se genera el ícono de nuestra apk ya para poder ser inicializada 
