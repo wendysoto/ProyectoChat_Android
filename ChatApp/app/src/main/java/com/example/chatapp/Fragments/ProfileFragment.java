@@ -50,11 +50,7 @@ public class ProfileFragment extends Fragment {
     TextView username;
     DatabaseReference reference;
     FirebaseUser fuser;
-    /*//agregado
-    FirebaseAuth fAuth;
-    FirebaseStorage fStorage;
-    String userId;
-    //*/
+
     StorageReference storageReference;
     private static final int IMAGE_REQUEST=1;
 

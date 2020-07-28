@@ -148,7 +148,7 @@ public class InitActivity extends AppCompatActivity {
         }
     }
 
-    //MUESTRA SI EL USUARIO ESTA EN LINEA
+    // MUESTRA SI EL USUARIO ESTA EN LINEA
     private void status ( String status){
         reference=FirebaseDatabase.getInstance().getReference("Users").child(firebaseUser.getUid());
         HashMap<String, Object>hashMap=new HashMap<>();

@@ -335,7 +335,7 @@ private void status ( String status){
         startActivityForResult(intent, IMAGE_PICK_GALLERY_CODE);
     }
 //CAMARA
-    private void PickFromCamera() {
+  /*  private void PickFromCamera() {
         ContentValues cv = new ContentValues();
         cv.put(MediaStore.Images.Media.TITLE,"Temp Pick");
         cv.put(MediaStore.Images.Media.DESCRIPTION,"Temp Descrp");
@@ -345,7 +345,7 @@ private void status ( String status){
         intent.putExtra(MediaStore.EXTRA_OUTPUT, image_rui);
         startActivityForResult(intent,IMAGE_PICK_CAMERA_CODE);
 
-    }
+    }*/
 
     //Galeria
     private boolean checkStoragePermission(){
@@ -383,7 +383,7 @@ private void status ( String status){
                     boolean cameraAccepted = grantResults[0] == PackageManager.PERMISSION_GRANTED;
                     boolean storageAccepted = grantResults[1] == PackageManager.PERMISSION_GRANTED;
                     if(cameraAccepted && storageAccepted){
-                        PickFromCamera();
+                       /* PickFromCamera();*/
                     }else{
                         Toast.makeText(this, "Permisos de Camara y Galeria son necesarios ...", Toast.LENGTH_SHORT).show();
                     }
