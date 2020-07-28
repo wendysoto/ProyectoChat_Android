@@ -1,7 +1,7 @@
 
 # ProyectoChat_Android :iphone:
  #### Proyecto correspondiente al primer Bimestre de la materia de Tópicos Especiales
-INTEGRANTES DE GRUPO:
+INTEGRANTES DE GRUPO  :woman::boy: :boy::
 - Andres Alvear
 - Wendy Soto
 - Erick Vargas
