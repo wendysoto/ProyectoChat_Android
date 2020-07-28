@@ -13,7 +13,7 @@ La Aplicación de chat permite a un usuario interactuar con uno o varios usuario
 Proyecto desarrollado en Android Studio.
 ```
 
-# Manual de Uso :books:
+# Manual de Uso :book:
 Primero vamos a descargar la apk generada por el proyecto, la misma que se encuentra en la rama master de nombre chatApp.apk
  
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/app_c.png)
@@ -56,27 +56,27 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | ------------- | ------------- | ------------- |
 | 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/database.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/authentication.JPG)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/Storage.JPG) |
 
-### Modelos donde fue probada la Apk ⌨️
+### Modelos donde fue probada la Apk :computer::iphone:
 
 | **Nokia 3 android 7.1.1** | **J2 android 5.1.1** | **Tablet** |
 | ------------- | ------------- | ------------- |
 | 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/login.jpeg) |  ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/pantalla.jpeg)  |
 
 
-### Diseño visual (imágenes, íconos, paleta de colores, splash screen) 
+### Diseño visual (imágenes, íconos, paleta de colores, splash screen)  :red_circle:
 | **Logo** | **Splash Screen** | **Colores** |
 | ------------- | ------------- | ------------- |
 | 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/icon.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/splash.jpeg)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/paleta.JPG) |
 
 
-**Paleta de colores**:art:
+**Paleta de colores** :art:
 | Color | Hexadecimal |
 | ------------- | ------------- |
 | Azul  | #192d37  |
 | Azul Claro | #1c9eb4  |
 |blanco | #ffffff
 
-## Videos en YouTube:clapper::
+## Videos en YouTube :clapper::
 
 - Andrés Alvear: https://www.youtube.com/watch?v=MevrkOLo2zY&t=1s&app=desktop
 - Wendy Soto: https://www.youtube.com/watch?v=euMbvI9Wb10
