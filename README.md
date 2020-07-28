@@ -102,7 +102,7 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | ------------- | ------------- | ------------- |
 | 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/database.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/authentication.JPG)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/Storage.JPG) |
 
-https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/nokia%203%20android%209.jpeg
+
 
 ### Modelos donde fue probada la Apk :computer::iphone:
 
