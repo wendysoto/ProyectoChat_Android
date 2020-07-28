@@ -73,7 +73,16 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | Azul Claro | #1c9eb4  |
 |blanco | #ffffff
 
-### Referencias: 
+## Videos en YouTube:
+### Andrés Alvear: 
+https://www.youtube.com/watch?v=MevrkOLo2zY&t=1s&app=desktop
+### Wendy Soto: 
+https://www.youtube.com/watch?v=euMbvI9Wb10
+### Erick Vargas: 
+https://www.youtube.com/watch?v=7EYaUd659QA
+
+
+## Referencias: 
 
 [1] 	A. Pervaiz, «Firebase Social Media App - 17 Publish Posts,» [En línea]. Available: https://www.youtube.com/watch?v=vcjvWaJqztE.
 
