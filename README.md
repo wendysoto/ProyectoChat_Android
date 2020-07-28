@@ -16,24 +16,27 @@ Proyecto desarrollado en Android Studio.
 
 ## Funcionalidad de Proyecto
 ### Descripcion del codigo lo mas relevante:
-Creación de layout
-
+Creación de layout:
+En la carpeta de los layout alojaremos todas las interfaes que nuestra chat utilizará como el registro, login, splash, etc.
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/layout.jpeg)
 
-Archivo Android Manifest
+Archivo Android Manifest:
+En el archivo manifest configuramos el llamado a la clase java de las interfaces, para la interactividad del usuario con la aplicación al momento de acceder a una interfaz.
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/manifest.jpeg)
 
-Dependencias
+Dependencias:
+En el archivo de las dependencias agregaremos todo lo necesario para conexiones con firebase.
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/dependencias.jpeg)
 
-Modelo
+Modelo:
+En la carpeta del modelo vamos a contener todas las clases de java que creamos 
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/model.jpeg)
 
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/layout.jpeg)
-
-autenticacion. Main Activity
+En el siguiente etapa vamos a presentar los códigos qe ejecutamos en las distintas clases java para cumplir con el objetivo del chat, en esta parte se ha realizado capturas de lo que contiene cada clase para que funcione la aplicación.
+autenticacion. Main Activity:
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/autenticacion.jpeg)
 
