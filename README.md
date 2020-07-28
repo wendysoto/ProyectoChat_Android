@@ -18,6 +18,7 @@ Proyecto desarrollado en Android Studio.
 ### Descripcion del codigo lo mas relevante:
 Creación de layout:
 En la carpeta de los layout alojaremos todas las interfaes que nuestra chat utilizará como el registro, login, splash, etc.
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/layout.jpeg)
 
 Archivo Android Manifest:
