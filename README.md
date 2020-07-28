@@ -18,10 +18,13 @@ Proyecto desarrollado en Android Studio.
 ### Descripcion del codigo lo mas relevante:
 Creación de layout
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/layout.jpeg)
-![myimage-alt-tag](![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/layout.jpeg))
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/manifest.jpeg)
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/layout.jpeg)
-![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/layout.jpeg)
+
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/dependencias.jpeg)
+
+![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/estado%20activo.jpeg)
+
 
 # Manual de Uso :book:
 Primero vamos a descargar la apk generada por el proyecto, la misma que se encuentra en la rama master de nombre chatApp.apk
