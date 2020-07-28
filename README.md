@@ -17,13 +17,21 @@ Proyecto desarrollado en Android Studio.
 ## Funcionalidad de Proyecto
 ### Descripcion del codigo lo mas relevante:
 Creación de layout
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/layout.jpeg)
+
+Archivo Android Manifest
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/manifest.jpeg)
 
+Dependencias
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/dependencias.jpeg)
 
+autenticacion. Main Activity
+
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/autenticacion.jpeg)
+
 
 ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/estado%20activo.jpeg)
 
@@ -83,11 +91,14 @@ Para ello hemos creado un tablero en Zenhub con las principales actividades a re
 | ------------- | ------------- | ------------- |
 | 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/database.JPG)|	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/authentication.JPG)|![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/Storage.JPG) |
 
+https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/nokia%203%20android%209.jpeg
+
 ### Modelos donde fue probada la Apk :computer::iphone:
 
-| **Nokia 3 android 7.1.1** | **J2 android 5.1.1** | **Tablet** |
-| ------------- | ------------- | ------------- |
-| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/nokia3.jpg)  |	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/login.jpeg) |  ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/tablet.JPG)  |
+| **Nokia 3 android 7.1.1** | **J2 android 5.1.1** | **Tablet** | **Nokia 3 android 9** |
+| ------------- | ------------- | ------------- |------------- |
+| 	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/nokia3.jpg)  |	![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/login.jpeg) |  ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/tablet.JPG)  | ![myimage-alt-tag](https://github.com/wendysoto/ProyectoChat_Android/blob/master/images/nokia%203%20android%209.jpeg)|
+
 
 
 ### Diseño visual (imágenes, íconos, paleta de colores, splash screen)  :red_circle:
